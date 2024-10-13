@@ -1,0 +1,6 @@
+Merdeka Fiesta$EV$10001$5$Tan Wai Yang$PL$10001$28$4$2023$23$5$2023$Festival$Motivational$Health
+Treasure$EV$10002$10$Farn Xin Yang$PL$10002$12$6$2023$4$8$2023$Speech$Future Trend
+Health and Wellness Expo$EV$10003$7$John Smith$PL$10003$12$9$2023$14$9$2023$Workshop$Health
+Coding Competition$EV$10004$15$Emily Brown$PL$10004$5$7$2023$7$7$2023$Competition$IT & Technology
+Music Festival$EV$10005$8$Alex Turner$PL$10005$30$7$2023$1$8$2023$Festival$Musics
+Charity Run$EV$10006$6$Jessica Lee$PL$10006$18$5$2023$18$5$2023$Sports$Motivational

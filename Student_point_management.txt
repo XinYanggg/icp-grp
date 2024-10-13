@@ -1,0 +1,4 @@
+Farn Xin Yang$ST$10001$45$1$2$Mechanics and Materials&MJ&10002$Merdeka Fiesta&EV&10001$Treasure&EV&10002
+Hamada$ST$10002$80$2$0$Introduction to Engineering Principles&MJ&10001$Mechanics and Materials&MJ&10002
+Zaman$ST$10003$15$0$2$Merdeka Fiesta&EV&10001$Treasure&EV&10002
+Lee Shin Yee$ST$10004$0$0$0
